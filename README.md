@@ -1,1 +1,1 @@
-# Python2
+Pour ce projet on m'a chargé d'optimiser la gestion des données d'une boutique avec Python, de faire une brève analyse du chiffre d'affaire, puis d'effectuer une recherche d'éventuelles valeurs aberrantes.
