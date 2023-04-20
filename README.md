@@ -1,1 +1,2 @@
 Pour ce projet, on m'a chargé d'optimiser la gestion des données d'une boutique avec Python, de faire une brève analyse du chiffre d'affaire, puis d'effectuer une recherche d'éventuelles valeurs aberrantes.
+Les liens du sommaire ne fonctionnent pas sur github malheureusement. Malgré la simplicité du projet, j'en étais encore à mes débuts avec Python et il y a certaines choses que je changerais si c'était à refaire.
